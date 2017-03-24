@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug"><source path="D:\workshop\Project_Luffa_OTT\Luffa_AppSource\OTTLivePlayer\InitActivity\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="D:\workshop\Project_Luffa_OTT\Luffa_AppSource\OTTLivePlayer\InitActivity\src\androidTest\assets"/><source path="D:\workshop\Project_Luffa_OTT\Luffa_AppSource\OTTLivePlayer\InitActivity\build\generated\assets\shaders\androidTest\debug"/></dataSet></merger>

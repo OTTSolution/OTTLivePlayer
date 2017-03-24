@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\animator-v21\\lb_playback_bg_fade_in.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\animator-v21\\lb_playback_bg_fade_in.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\animator-v21\\lb_playback_bg_fade_out.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\animator-v21\\lb_playback_bg_fade_out.xml"
+    },
+    {
+        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\animator-v21\\lb_playback_description_fade_out.xml",
+        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\animator-v21\\lb_playback_description_fade_out.xml"
+    }
+]
