@@ -1,17 +1,17 @@
 [
     {
-        "outputFile": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\values-ky-rKG\\values-ky-rKG.xml",
+        "outputFile": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ky-rKG\\values-ky-rKG.xml",
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
-                    "startOffset": 105,
+                    "startOffset": 55,
                     "endColumn": 103,
-                    "endOffset": 204
+                    "endOffset": 154
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -25,12 +25,12 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 209,
+                    "startOffset": 159,
                     "endColumn": 107,
-                    "endOffset": 312
+                    "endOffset": 262
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -44,12 +44,12 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 317,
+                    "startOffset": 267,
                     "endColumn": 122,
-                    "endOffset": 435
+                    "endOffset": 385
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -63,12 +63,12 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 440,
+                    "startOffset": 390,
                     "endColumn": 94,
-                    "endOffset": 530
+                    "endOffset": 480
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -82,12 +82,12 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 535,
+                    "startOffset": 485,
                     "endColumn": 118,
-                    "endOffset": 649
+                    "endOffset": 599
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -101,12 +101,12 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 654,
+                    "startOffset": 604,
                     "endColumn": 83,
-                    "endOffset": 733
+                    "endOffset": 683
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -120,12 +120,12 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 738,
+                    "startOffset": 688,
                     "endColumn": 106,
-                    "endOffset": 840
+                    "endOffset": 790
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -139,12 +139,12 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 845,
+                    "startOffset": 795,
                     "endColumn": 116,
-                    "endOffset": 957
+                    "endOffset": 907
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -158,12 +158,12 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 962,
+                    "startOffset": 912,
                     "endColumn": 77,
-                    "endOffset": 1035
+                    "endOffset": 985
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -177,12 +177,12 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1040,
+                    "startOffset": 990,
                     "endColumn": 78,
-                    "endOffset": 1114
+                    "endOffset": 1064
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -196,12 +196,12 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1119,
+                    "startOffset": 1069,
                     "endColumn": 80,
-                    "endOffset": 1195
+                    "endOffset": 1145
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -215,12 +215,12 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1200,
+                    "startOffset": 1150,
                     "endColumn": 109,
-                    "endOffset": 1305
+                    "endOffset": 1255
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -234,12 +234,12 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1310,
+                    "startOffset": 1260,
                     "endColumn": 106,
-                    "endOffset": 1412
+                    "endOffset": 1362
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -253,12 +253,12 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1417,
+                    "startOffset": 1367,
                     "endColumn": 97,
-                    "endOffset": 1510
+                    "endOffset": 1460
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -272,12 +272,12 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1515,
+                    "startOffset": 1465,
                     "endColumn": 105,
-                    "endOffset": 1616
+                    "endOffset": 1566
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -291,12 +291,12 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1621,
+                    "startOffset": 1571,
                     "endColumn": 106,
-                    "endOffset": 1723
+                    "endOffset": 1673
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -310,12 +310,12 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1728,
+                    "startOffset": 1678,
                     "endColumn": 100,
-                    "endOffset": 1824
+                    "endOffset": 1774
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -329,12 +329,12 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1829,
+                    "startOffset": 1779,
                     "endColumn": 123,
-                    "endOffset": 1948
+                    "endOffset": 1898
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -348,12 +348,12 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1953,
+                    "startOffset": 1903,
                     "endColumn": 102,
-                    "endOffset": 2051
+                    "endOffset": 2001
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -367,715 +367,12 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 2056,
-                    "endColumn": 106,
-                    "endOffset": 2158
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 105,
-                        "endColumn": 106,
-                        "endOffset": 207
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 2163,
-                    "endColumn": 100,
-                    "endOffset": 2259
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 212,
-                        "endColumn": 100,
-                        "endOffset": 308
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 2264,
-                    "endColumn": 77,
-                    "endOffset": 2337
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 313,
-                        "endColumn": 77,
-                        "endOffset": 386
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 24,
-                    "startColumn": 4,
-                    "startOffset": 2342,
-                    "endColumn": 96,
-                    "endOffset": 2434
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 391,
-                        "endColumn": 96,
-                        "endOffset": 483
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 25,
-                    "startColumn": 4,
-                    "startOffset": 2439,
-                    "endColumn": 94,
-                    "endOffset": 2529
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 488,
-                        "endColumn": 94,
-                        "endOffset": 578
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 26,
-                    "startColumn": 4,
-                    "startOffset": 2534,
-                    "endColumn": 111,
-                    "endOffset": 2641
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 583,
-                        "endColumn": 111,
-                        "endOffset": 690
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 27,
-                    "startColumn": 4,
-                    "startOffset": 2646,
-                    "endColumn": 98,
-                    "endOffset": 2740
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 695,
-                        "endColumn": 98,
-                        "endOffset": 789
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 28,
-                    "startColumn": 4,
-                    "startOffset": 2745,
-                    "endColumn": 92,
-                    "endOffset": 2833
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 794,
-                        "endColumn": 92,
-                        "endOffset": 882
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 29,
-                    "startColumn": 4,
-                    "startOffset": 2838,
-                    "endColumn": 130,
-                    "endOffset": 2964
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 887,
-                        "endColumn": 130,
-                        "endOffset": 1013
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 30,
-                    "startColumn": 4,
-                    "startOffset": 2969,
-                    "endColumn": 130,
-                    "endOffset": 3095
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1018,
-                        "endColumn": 130,
-                        "endOffset": 1144
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 31,
-                    "startColumn": 4,
-                    "startOffset": 3100,
-                    "endColumn": 104,
-                    "endOffset": 3200
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1149,
-                        "endColumn": 104,
-                        "endOffset": 1249
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 32,
-                    "startColumn": 4,
-                    "startOffset": 3205,
-                    "endColumn": 121,
-                    "endOffset": 3322
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1254,
-                        "endColumn": 121,
-                        "endOffset": 1371
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 33,
-                    "startColumn": 4,
-                    "startOffset": 3327,
-                    "endColumn": 122,
-                    "endOffset": 3445
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1376,
-                        "endColumn": 122,
-                        "endOffset": 1494
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 34,
-                    "startColumn": 4,
-                    "startOffset": 3450,
-                    "endColumn": 121,
-                    "endOffset": 3567
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1499,
-                        "endColumn": 121,
-                        "endOffset": 1616
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 35,
-                    "startColumn": 4,
-                    "startOffset": 3572,
-                    "endColumn": 107,
-                    "endOffset": 3675
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1621,
-                        "endColumn": 107,
-                        "endOffset": 1724
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 36,
-                    "startColumn": 4,
-                    "startOffset": 3680,
-                    "endColumn": 93,
-                    "endOffset": 3769
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1729,
-                        "endColumn": 93,
-                        "endOffset": 1818
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 37,
-                    "startColumn": 4,
-                    "startOffset": 3774,
-                    "endColumn": 128,
-                    "endOffset": 3898
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1823,
-                        "endColumn": 128,
-                        "endOffset": 1947
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 38,
-                    "startColumn": 4,
-                    "startOffset": 3903,
-                    "endColumn": 90,
-                    "endOffset": 3989
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1952,
-                        "endColumn": 90,
-                        "endOffset": 2038
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 39,
-                    "startColumn": 4,
-                    "startOffset": 3994,
-                    "endColumn": 105,
-                    "endOffset": 4095
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 2043,
-                        "endColumn": 105,
-                        "endOffset": 2144
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 40,
-                    "startColumn": 4,
-                    "startOffset": 4100,
-                    "endColumn": 108,
-                    "endOffset": 4204
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 2149,
-                        "endColumn": 108,
-                        "endOffset": 2253
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 41,
-                    "startColumn": 4,
-                    "startOffset": 4209,
-                    "endColumn": 106,
-                    "endOffset": 4311
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 2258,
-                        "endColumn": 106,
-                        "endOffset": 2360
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 42,
-                    "startColumn": 4,
-                    "startOffset": 4316,
-                    "endColumn": 97,
-                    "endOffset": 4409
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 2365,
-                        "endColumn": 97,
-                        "endOffset": 2458
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 43,
-                    "startColumn": 4,
-                    "startOffset": 4414,
-                    "endColumn": 114,
-                    "endOffset": 4524
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 2463,
-                        "endColumn": 114,
-                        "endOffset": 2573
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 44,
-                    "startColumn": 4,
-                    "startOffset": 4529,
-                    "endColumn": 115,
-                    "endOffset": 4640
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 2578,
-                        "endColumn": 115,
-                        "endOffset": 2689
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 45,
-                    "startColumn": 4,
-                    "startOffset": 4645,
-                    "endColumn": 115,
-                    "endOffset": 4756
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 4,
-                        "startOffset": 2694,
-                        "endColumn": 115,
-                        "endOffset": 2805
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 46,
-                    "startColumn": 4,
-                    "startOffset": 4761,
-                    "endColumn": 114,
-                    "endOffset": 4871
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 4,
-                        "startOffset": 2810,
-                        "endColumn": 114,
-                        "endOffset": 2920
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 47,
-                    "startColumn": 4,
-                    "startOffset": 4876,
-                    "endColumn": 118,
-                    "endOffset": 4990
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 2925,
-                        "endColumn": 118,
-                        "endOffset": 3039
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 48,
-                    "startColumn": 4,
-                    "startOffset": 4995,
-                    "endColumn": 119,
-                    "endOffset": 5110
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 3044,
-                        "endColumn": 119,
-                        "endOffset": 3159
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 49,
-                    "startColumn": 4,
-                    "startOffset": 5115,
-                    "endColumn": 116,
-                    "endOffset": 5227
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 4,
-                        "startOffset": 3164,
-                        "endColumn": 116,
-                        "endOffset": 3276
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 50,
-                    "startColumn": 4,
-                    "startOffset": 5232,
-                    "endColumn": 116,
-                    "endOffset": 5344
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 31,
-                        "startColumn": 4,
-                        "startOffset": 3281,
-                        "endColumn": 116,
-                        "endOffset": 3393
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 51,
-                    "startColumn": 4,
-                    "startOffset": 5349,
-                    "endColumn": 113,
-                    "endOffset": 5458
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 32,
-                        "startColumn": 4,
-                        "startOffset": 3398,
-                        "endColumn": 113,
-                        "endOffset": 3507
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 52,
-                    "startColumn": 4,
-                    "startOffset": 5463,
-                    "endColumn": 82,
-                    "endOffset": 5541
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 33,
-                        "startColumn": 4,
-                        "startOffset": 3512,
-                        "endColumn": 82,
-                        "endOffset": 3590
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 53,
-                    "startColumn": 4,
-                    "startOffset": 5546,
-                    "endColumn": 103,
-                    "endOffset": 5645
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 34,
-                        "startColumn": 4,
-                        "startOffset": 3595,
-                        "endColumn": 103,
-                        "endOffset": 3694
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 54,
-                    "startColumn": 4,
-                    "startOffset": 5650,
-                    "endColumn": 133,
-                    "endOffset": 5779
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 35,
-                        "startColumn": 4,
-                        "startOffset": 3699,
-                        "endColumn": 133,
-                        "endOffset": 3828
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 55,
-                    "startColumn": 4,
-                    "startOffset": 5784,
-                    "endColumn": 154,
-                    "endOffset": 5934
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 36,
-                        "startColumn": 4,
-                        "startOffset": 3833,
-                        "endColumn": 154,
-                        "endOffset": 3983
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 56,
-                    "startColumn": 4,
-                    "startOffset": 5939,
-                    "endColumn": 77,
-                    "endOffset": 6012
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 37,
-                        "startColumn": 4,
-                        "startOffset": 3988,
-                        "endColumn": 77,
-                        "endOffset": 4061
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 57,
-                    "startColumn": 4,
-                    "startOffset": 6017,
-                    "endColumn": 89,
-                    "endOffset": 6102
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
-                    "position": {
-                        "startLine": 38,
-                        "startColumn": 4,
-                        "startOffset": 4066,
-                        "endColumn": 89,
-                        "endOffset": 4151
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 58,
-                    "startColumn": 4,
-                    "startOffset": 6107,
+                    "startOffset": 2006,
                     "endColumn": 80,
-                    "endOffset": 6183
+                    "endOffset": 2082
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1087,14 +384,14 @@
             },
             {
                 "to": {
-                    "startLine": 59,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 6188,
+                    "startOffset": 2087,
                     "endColumn": 100,
-                    "endOffset": 6284
+                    "endOffset": 2183
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-ky-rKG\\values-ky-rKG.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,

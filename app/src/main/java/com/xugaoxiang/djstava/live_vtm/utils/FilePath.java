@@ -3,7 +3,7 @@ package com.xugaoxiang.djstava.live_vtm.utils;
 import android.os.Environment;
 
 import com.xugaoxiang.djstava.live_vtm.MyApplication;
-import com.longjingtech.ott.live_vtm.R;
+import com.xugaoxiang.djstava.live_vtm.R;
 
 import java.io.File;
 

@@ -1,390 +1,170 @@
 [
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_picker.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_picker.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_select_dialog_material.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_error_fragment.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_error_fragment.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_headers_fragment.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_headers_fragment.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_lines.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_title_view.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_title_view.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_control_bar.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_control_bar.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_service_list.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\src\\main\\res\\layout\\activity_service_list.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_fullwidth_details_overview_logo.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_fullwidth_details_overview_logo.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedbuttonactions.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_guidedbuttonactions.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_vertical_grid.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_vertical_grid.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_search_orb.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_search_orb.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_item_material.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_row_container.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_row_container.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_big_media.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mediacontroller.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\OTTLivePlayer\\vitamio\\unspecified\\res\\layout\\mediacontroller.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_search_fragment.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_search_fragment.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_details_fragment.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_details_fragment.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedactions_datepicker_item.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_guidedactions_datepicker_item.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_details_description.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_details_description.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_fullwidth_details_overview.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_fullwidth_details_overview.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_background_window.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_background_window.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedactions.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_guidedactions.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_dialog_title_material.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_rows_fragment.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_rows_fragment.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_picker_separator.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_picker_separator.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_picker_column.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_picker_column.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mediacontroller.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\OTTLivePlayer\\InitActivity\\unspecified\\res\\layout\\mediacontroller.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_picker_item.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_picker_item.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_media_cancel_action.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_search_view.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view_themed_badge_left.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_image_card_view_themed_badge_left.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view_themed_badge_right.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_image_card_view_themed_badge_right.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_program_item.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\src\\main\\res\\layout\\lv_program_item.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_part_chronometer.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_playback_controls_row.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_playback_controls_row.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_header.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_header.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_service_list.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\src\\main\\res\\layout\\activity_service_list.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedactions_item.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_guidedactions_item.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_media_list_header.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_media_list_header.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_row_media_item_action.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_row_media_item_action.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_row_header.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_row_header.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_control_button_secondary.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_control_button_secondary.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_content_include.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_program_item.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\src\\main\\res\\layout\\lv_program_item.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_control_button_primary.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_control_button_primary.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_lines.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_row_media_item.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_row_media_item.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_popup_menu_item_layout.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_speech_orb.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_speech_orb.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_vertical_grid_fragment.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_vertical_grid_fragment.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_browse_fragment.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_browse_fragment.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_list_row.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_list_row.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidance.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_guidance.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_section_header.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_section_header.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_action_1_line.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_action_1_line.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_playback_now_playing_bars.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_playback_now_playing_bars.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_browse_title.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_browse_title.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_media_item_number_view_flipper.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_media_item_number_view_flipper.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_mode_bar.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_action_2_lines.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_action_2_lines.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_media.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_details_overview.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_details_overview.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_image_card_view.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedstep_fragment.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_guidedstep_fragment.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_divider.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_divider.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_menu_item_layout.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view_themed_content.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_image_card_view_themed_content.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_media_action.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_layout.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_alert_dialog_material.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_list_row_hovercard.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_list_row_hovercard.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_big_media_narrow.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_title_item.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_image_card_view_themed_title.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_image_card_view_themed_title.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_shadow.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_shadow.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_guidedstep_background.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_guidedstep_background.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_playback_controls.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_playback_controls.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_onboarding_fragment.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_onboarding_fragment.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
-        "merged": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lb_search_bar.xml",
-        "source": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\layout\\lb_search_bar.xml"
+        "merged": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_mode_close_item_material.xml"
     }
 ]

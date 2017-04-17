@@ -29,7 +29,7 @@ import com.xugaoxiang.djstava.live_vtm.utils.NetWorkUtils;
 import com.xugaoxiang.djstava.live_vtm.utils.PreUtils;
 import com.xugaoxiang.djstava.live_vtm.view.MyListView;
 import com.xugaoxiang.djstava.live_vtm.view.RotaProgressBar;
-import com.longjingtech.ott.live_vtm.R;
+import com.xugaoxiang.djstava.live_vtm.R;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -120,7 +120,7 @@ public class MainActivity extends Activity {
 
         initPlayer();
         initListener();
-        if (!TextUtils.isEmpty(GetServiceProgramList.language) && GetServiceProgramList.language.equals("英文")) {
+        if (!TextUtils.isEmpty(ServiceProgramActivity.language) && ServiceProgramActivity.language.equals("英文")) {
             tvProgram.setText("Programs");
         }
 
@@ -385,16 +385,16 @@ public class MainActivity extends Activity {
 
     private void showProgramInfo() {
         rlDisplay.setVisibility(View.VISIBLE);
-        if (!TextUtils.isEmpty(GetServiceProgramList.language) && GetServiceProgramList.language.equals("英文")) {
+        if (!TextUtils.isEmpty(ServiceProgramActivity.language) && ServiceProgramActivity.language.equals("英文")) {
             tvProgramName.setText(liveBean.getData().get(programIndex).getEn_name());
         } else {
             tvProgramName.setText(liveBean.getData().get(programIndex).getName());
         }
         tvProgramNumber.setText(liveBean.getData().get(programIndex).getNum());
-        tvSystemTime.setText(getDtate());
+        tvSystemTime.setText(getDate());
     }
 
-    public String getDtate() {
+    public String getDate() {
         SimpleDateFormat sDateFormat = new SimpleDateFormat("yyyy/MM/dd    HH:mm");
         return sDateFormat.format(new Date());
     }

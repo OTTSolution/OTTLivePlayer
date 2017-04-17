@@ -8,8 +8,8 @@ import android.os.Looper;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.xugaoxiang.djstava.live_vtm.activity.GetServiceProgramList;
-import com.longjingtech.ott.live_vtm.R;
+import com.xugaoxiang.djstava.live_vtm.activity.ServiceProgramActivity;
+import com.xugaoxiang.djstava.live_vtm.R;
 import com.loopj.android.http.RequestParams;
 import com.loopj.android.http.TextHttpResponseHandler;
 
@@ -140,7 +140,7 @@ public class CrashHandler implements Thread.UncaughtExceptionHandler {
                         params.put("log" , new File(FilePath.CRASH , s));
                         params.put("mac" , macAddress);
                         Looper.prepare();
-                        TwitterRestClient.post(GetServiceProgramList.BASE_URI+"/api/log", params, new TextHttpResponseHandler() {
+                        TwitterRestClient.post(ServiceProgramActivity.BASE_URI+"/api/log", params, new TextHttpResponseHandler() {
                             @Override
                             public void onFailure(int i, Header[] headers, String s, Throwable throwable) {
                             }

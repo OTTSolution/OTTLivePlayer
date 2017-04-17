@@ -7,10 +7,10 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
-import com.xugaoxiang.djstava.live_vtm.activity.GetServiceProgramList;
+import com.xugaoxiang.djstava.live_vtm.activity.ServiceProgramActivity;
 import com.xugaoxiang.djstava.live_vtm.activity.MainActivity;
 import com.xugaoxiang.djstava.live_vtm.bean.LiveBean;
-import com.longjingtech.ott.live_vtm.R;
+import com.xugaoxiang.djstava.live_vtm.R;
 
 
 /**
@@ -48,7 +48,7 @@ public class ProgramAdapter extends BaseAdapter{
         }else {
             viewHolder = (ViewHolder) convertView.getTag();
         }
-        if (!TextUtils.isEmpty(GetServiceProgramList.language)&&GetServiceProgramList.language.equals("英文")){
+        if (!TextUtils.isEmpty(ServiceProgramActivity.language)&& ServiceProgramActivity.language.equals("英文")){
             viewHolder.textView.setText(TextUtils.isEmpty(getItem(position).getNum())
                     ?getItem(position).getEn_name()
                     :getItem(position).getNum()+"    "+getItem(position).getEn_name());

@@ -1,17 +1,17 @@
 [
     {
-        "outputFile": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\values-pa-rIN\\values-pa-rIN.xml",
+        "outputFile": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pa-rIN\\values-pa-rIN.xml",
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
-                    "startOffset": 105,
+                    "startOffset": 55,
                     "endColumn": 105,
-                    "endOffset": 206
+                    "endOffset": 156
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -25,12 +25,12 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 211,
+                    "startOffset": 161,
                     "endColumn": 107,
-                    "endOffset": 314
+                    "endOffset": 264
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -44,12 +44,12 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 319,
+                    "startOffset": 269,
                     "endColumn": 122,
-                    "endOffset": 437
+                    "endOffset": 387
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -63,12 +63,12 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 442,
+                    "startOffset": 392,
                     "endColumn": 104,
-                    "endOffset": 542
+                    "endOffset": 492
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -82,12 +82,12 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 547,
+                    "startOffset": 497,
                     "endColumn": 104,
-                    "endOffset": 647
+                    "endOffset": 597
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -101,12 +101,12 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 652,
+                    "startOffset": 602,
                     "endColumn": 85,
-                    "endOffset": 733
+                    "endOffset": 683
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -120,12 +120,12 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 738,
+                    "startOffset": 688,
                     "endColumn": 99,
-                    "endOffset": 833
+                    "endOffset": 783
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -139,12 +139,12 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 838,
+                    "startOffset": 788,
                     "endColumn": 112,
-                    "endOffset": 946
+                    "endOffset": 896
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -158,12 +158,12 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 951,
+                    "startOffset": 901,
                     "endColumn": 76,
-                    "endOffset": 1023
+                    "endOffset": 973
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -177,12 +177,12 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1028,
+                    "startOffset": 978,
                     "endColumn": 75,
-                    "endOffset": 1099
+                    "endOffset": 1049
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -196,12 +196,12 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1104,
+                    "startOffset": 1054,
                     "endColumn": 78,
-                    "endOffset": 1178
+                    "endOffset": 1128
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -215,12 +215,12 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1183,
+                    "startOffset": 1133,
                     "endColumn": 100,
-                    "endOffset": 1279
+                    "endOffset": 1229
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -234,12 +234,12 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1284,
+                    "startOffset": 1234,
                     "endColumn": 100,
-                    "endOffset": 1380
+                    "endOffset": 1330
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -253,12 +253,12 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1385,
+                    "startOffset": 1335,
                     "endColumn": 96,
-                    "endOffset": 1477
+                    "endOffset": 1427
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -272,12 +272,12 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1482,
+                    "startOffset": 1432,
                     "endColumn": 108,
-                    "endOffset": 1586
+                    "endOffset": 1536
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -291,12 +291,12 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1591,
+                    "startOffset": 1541,
                     "endColumn": 98,
-                    "endOffset": 1685
+                    "endOffset": 1635
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -310,12 +310,12 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1690,
+                    "startOffset": 1640,
                     "endColumn": 109,
-                    "endOffset": 1795
+                    "endOffset": 1745
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -329,12 +329,12 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1800,
+                    "startOffset": 1750,
                     "endColumn": 121,
-                    "endOffset": 1917
+                    "endOffset": 1867
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -348,12 +348,12 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1922,
+                    "startOffset": 1872,
                     "endColumn": 99,
-                    "endOffset": 2017
+                    "endOffset": 1967
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -367,715 +367,12 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 2022,
-                    "endColumn": 106,
-                    "endOffset": 2124
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 105,
-                        "endColumn": 106,
-                        "endOffset": 207
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 2129,
-                    "endColumn": 100,
-                    "endOffset": 2225
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 212,
-                        "endColumn": 100,
-                        "endOffset": 308
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 2230,
-                    "endColumn": 77,
-                    "endOffset": 2303
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 313,
-                        "endColumn": 77,
-                        "endOffset": 386
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 24,
-                    "startColumn": 4,
-                    "startOffset": 2308,
-                    "endColumn": 98,
-                    "endOffset": 2402
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 391,
-                        "endColumn": 98,
-                        "endOffset": 485
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 25,
-                    "startColumn": 4,
-                    "startOffset": 2407,
-                    "endColumn": 91,
-                    "endOffset": 2494
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 490,
-                        "endColumn": 91,
-                        "endOffset": 577
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 26,
-                    "startColumn": 4,
-                    "startOffset": 2499,
-                    "endColumn": 107,
-                    "endOffset": 2602
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 582,
-                        "endColumn": 107,
-                        "endOffset": 685
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 27,
-                    "startColumn": 4,
-                    "startOffset": 2607,
-                    "endColumn": 95,
-                    "endOffset": 2698
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 690,
-                        "endColumn": 95,
-                        "endOffset": 781
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 28,
-                    "startColumn": 4,
-                    "startOffset": 2703,
-                    "endColumn": 95,
-                    "endOffset": 2794
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 786,
-                        "endColumn": 95,
-                        "endOffset": 877
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 29,
-                    "startColumn": 4,
-                    "startOffset": 2799,
-                    "endColumn": 130,
-                    "endOffset": 2925
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 882,
-                        "endColumn": 130,
-                        "endOffset": 1008
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 30,
-                    "startColumn": 4,
-                    "startOffset": 2930,
-                    "endColumn": 128,
-                    "endOffset": 3054
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1013,
-                        "endColumn": 128,
-                        "endOffset": 1137
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 31,
-                    "startColumn": 4,
-                    "startOffset": 3059,
-                    "endColumn": 101,
-                    "endOffset": 3156
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1142,
-                        "endColumn": 101,
-                        "endOffset": 1239
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 32,
-                    "startColumn": 4,
-                    "startOffset": 3161,
-                    "endColumn": 122,
-                    "endOffset": 3279
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1244,
-                        "endColumn": 122,
-                        "endOffset": 1362
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 33,
-                    "startColumn": 4,
-                    "startOffset": 3284,
-                    "endColumn": 127,
-                    "endOffset": 3407
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1367,
-                        "endColumn": 127,
-                        "endOffset": 1490
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 34,
-                    "startColumn": 4,
-                    "startOffset": 3412,
-                    "endColumn": 124,
-                    "endOffset": 3532
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1495,
-                        "endColumn": 124,
-                        "endOffset": 1615
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 35,
-                    "startColumn": 4,
-                    "startOffset": 3537,
-                    "endColumn": 104,
-                    "endOffset": 3637
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1620,
-                        "endColumn": 104,
-                        "endOffset": 1720
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 36,
-                    "startColumn": 4,
-                    "startOffset": 3642,
-                    "endColumn": 89,
-                    "endOffset": 3727
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1725,
-                        "endColumn": 89,
-                        "endOffset": 1810
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 37,
-                    "startColumn": 4,
-                    "startOffset": 3732,
-                    "endColumn": 127,
-                    "endOffset": 3855
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1815,
-                        "endColumn": 127,
-                        "endOffset": 1938
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 38,
-                    "startColumn": 4,
-                    "startOffset": 3860,
-                    "endColumn": 90,
-                    "endOffset": 3946
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1943,
-                        "endColumn": 90,
-                        "endOffset": 2029
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 39,
-                    "startColumn": 4,
-                    "startOffset": 3951,
-                    "endColumn": 107,
-                    "endOffset": 4054
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 2034,
-                        "endColumn": 107,
-                        "endOffset": 2137
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 40,
-                    "startColumn": 4,
-                    "startOffset": 4059,
-                    "endColumn": 105,
-                    "endOffset": 4160
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 2142,
-                        "endColumn": 105,
-                        "endOffset": 2243
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 41,
-                    "startColumn": 4,
-                    "startOffset": 4165,
-                    "endColumn": 100,
-                    "endOffset": 4261
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 2248,
-                        "endColumn": 100,
-                        "endOffset": 2344
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 42,
-                    "startColumn": 4,
-                    "startOffset": 4266,
-                    "endColumn": 93,
-                    "endOffset": 4355
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 2349,
-                        "endColumn": 93,
-                        "endOffset": 2438
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 43,
-                    "startColumn": 4,
-                    "startOffset": 4360,
-                    "endColumn": 118,
-                    "endOffset": 4474
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 2443,
-                        "endColumn": 118,
-                        "endOffset": 2557
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 44,
-                    "startColumn": 4,
-                    "startOffset": 4479,
-                    "endColumn": 115,
-                    "endOffset": 4590
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 2562,
-                        "endColumn": 115,
-                        "endOffset": 2673
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 45,
-                    "startColumn": 4,
-                    "startOffset": 4595,
-                    "endColumn": 113,
-                    "endOffset": 4704
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 4,
-                        "startOffset": 2678,
-                        "endColumn": 113,
-                        "endOffset": 2787
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 46,
-                    "startColumn": 4,
-                    "startOffset": 4709,
-                    "endColumn": 102,
-                    "endOffset": 4807
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 4,
-                        "startOffset": 2792,
-                        "endColumn": 102,
-                        "endOffset": 2890
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 47,
-                    "startColumn": 4,
-                    "startOffset": 4812,
-                    "endColumn": 107,
-                    "endOffset": 4915
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 2895,
-                        "endColumn": 107,
-                        "endOffset": 2998
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 48,
-                    "startColumn": 4,
-                    "startOffset": 4920,
-                    "endColumn": 114,
-                    "endOffset": 5030
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 3003,
-                        "endColumn": 114,
-                        "endOffset": 3113
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 49,
-                    "startColumn": 4,
-                    "startOffset": 5035,
-                    "endColumn": 115,
-                    "endOffset": 5146
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 4,
-                        "startOffset": 3118,
-                        "endColumn": 115,
-                        "endOffset": 3229
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 50,
-                    "startColumn": 4,
-                    "startOffset": 5151,
-                    "endColumn": 110,
-                    "endOffset": 5257
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 31,
-                        "startColumn": 4,
-                        "startOffset": 3234,
-                        "endColumn": 110,
-                        "endOffset": 3340
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 51,
-                    "startColumn": 4,
-                    "startOffset": 5262,
-                    "endColumn": 111,
-                    "endOffset": 5369
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 32,
-                        "startColumn": 4,
-                        "startOffset": 3345,
-                        "endColumn": 111,
-                        "endOffset": 3452
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 52,
-                    "startColumn": 4,
-                    "startOffset": 5374,
-                    "endColumn": 81,
-                    "endOffset": 5451
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 33,
-                        "startColumn": 4,
-                        "startOffset": 3457,
-                        "endColumn": 81,
-                        "endOffset": 3534
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 53,
-                    "startColumn": 4,
-                    "startOffset": 5456,
-                    "endColumn": 96,
-                    "endOffset": 5548
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 34,
-                        "startColumn": 4,
-                        "startOffset": 3539,
-                        "endColumn": 96,
-                        "endOffset": 3631
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 54,
-                    "startColumn": 4,
-                    "startOffset": 5553,
-                    "endColumn": 132,
-                    "endOffset": 5681
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 35,
-                        "startColumn": 4,
-                        "startOffset": 3636,
-                        "endColumn": 132,
-                        "endOffset": 3764
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 55,
-                    "startColumn": 4,
-                    "startOffset": 5686,
-                    "endColumn": 147,
-                    "endOffset": 5829
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 36,
-                        "startColumn": 4,
-                        "startOffset": 3769,
-                        "endColumn": 147,
-                        "endOffset": 3912
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 56,
-                    "startColumn": 4,
-                    "startOffset": 5834,
-                    "endColumn": 77,
-                    "endOffset": 5907
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 37,
-                        "startColumn": 4,
-                        "startOffset": 3917,
-                        "endColumn": 77,
-                        "endOffset": 3990
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 57,
-                    "startColumn": 4,
-                    "startOffset": 5912,
-                    "endColumn": 85,
-                    "endOffset": 5993
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
-                    "position": {
-                        "startLine": 38,
-                        "startColumn": 4,
-                        "startOffset": 3995,
-                        "endColumn": 85,
-                        "endOffset": 4076
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 58,
-                    "startColumn": 4,
-                    "startOffset": 5998,
+                    "startOffset": 1972,
                     "endColumn": 78,
-                    "endOffset": 6072
+                    "endOffset": 2046
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1087,14 +384,14 @@
             },
             {
                 "to": {
-                    "startLine": 59,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 6077,
+                    "startOffset": 2051,
                     "endColumn": 100,
-                    "endOffset": 6173
+                    "endOffset": 2147
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-pa-rIN\\values-pa-rIN.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,

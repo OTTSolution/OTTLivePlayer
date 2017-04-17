@@ -27,7 +27,7 @@
             android:windowSoftInputMode="stateAlwaysHidden" />
 
         <activity
-            android:name="com.xugaoxiang.djstava.live_vtm.activity.GetServiceProgramList"
+            android:name="com.xugaoxiang.djstava.live_vtm.activity.ServiceProgramActivity"
             android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

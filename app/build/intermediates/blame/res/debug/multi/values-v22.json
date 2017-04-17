@@ -1,55 +1,17 @@
 [
     {
-        "outputFile": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\res\\merged\\debug\\values-v22\\values-v22.xml",
+        "outputFile": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 51,
-                    "endOffset": 102
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-v22\\values-v22.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 51,
-                        "endOffset": 102
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 107,
-                    "endColumn": 53,
-                    "endOffset": 156
-                },
-                "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\leanback-v17\\24.2.0\\res\\values-v22\\values-v22.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 107,
-                        "endColumn": 53,
-                        "endOffset": 156
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 161,
                     "endColumn": 74,
-                    "endOffset": 231
+                    "endOffset": 125
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v22\\values-v22.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v22\\values-v22.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -61,14 +23,14 @@
             },
             {
                 "to": {
-                    "startLine": 5,
+                    "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 236,
+                    "startOffset": 130,
                     "endColumn": 86,
-                    "endOffset": 318
+                    "endOffset": 212
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v22\\values-v22.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v22\\values-v22.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -80,15 +42,15 @@
             },
             {
                 "to": {
-                    "startLine": 6,
+                    "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 323,
-                    "endLine": 10,
+                    "startOffset": 217,
+                    "endLine": 8,
                     "endColumn": 12,
-                    "endOffset": 654
+                    "endOffset": 548
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v22\\values-v22.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v22\\values-v22.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -101,15 +63,15 @@
             },
             {
                 "to": {
-                    "startLine": 11,
+                    "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 659,
-                    "endLine": 15,
+                    "startOffset": 553,
+                    "endLine": 13,
                     "endColumn": 12,
-                    "endOffset": 1002
+                    "endOffset": 896
                 },
                 "from": {
-                    "file": "D:\\workshop\\Project_Luffa_OTT\\Luffa_AppSource\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v22\\values-v22.xml",
+                    "file": "D:\\workshop\\github\\OTTSolution\\OTTLivePlayer\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\values-v22\\values-v22.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,

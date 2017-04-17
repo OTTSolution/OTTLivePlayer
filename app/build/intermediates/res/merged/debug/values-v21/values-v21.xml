@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <item name="lb_selectable_item_background" type="drawable">@drawable/lb_selectable_item_rounded_rect</item>
     <style name="Base.TextAppearance.AppCompat" parent="android:TextAppearance.Material"/>
     <style name="Base.TextAppearance.AppCompat.Body1" parent="android:TextAppearance.Material.Body1"/>
     <style name="Base.TextAppearance.AppCompat.Body2" parent="android:TextAppearance.Material.Body2"/>
@@ -252,20 +251,4 @@
     </style>
     <style name="Platform.ThemeOverlay.AppCompat.Dark"/>
     <style name="Platform.ThemeOverlay.AppCompat.Light"/>
-    <style name="TextAppearance.LeanbackBase" parent="android:TextAppearance.Material"/>
-    <style name="Theme.LeanbackBase" parent="android:Theme.Material.NoActionBar">
-        <item name="playbackProgressPrimaryColor">?android:attr/colorAccent</item>
-        <item name="playbackControlsIconHighlightColor">?android:attr/colorAccent</item>
-        <item name="defaultBrandColor">?android:attr/colorPrimary</item>
-        <item name="android:colorPrimary">@color/lb_default_brand_color</item>
-        <item name="defaultBrandColorDark">?android:attr/colorPrimaryDark</item>
-        <item name="android:colorPrimaryDark">@color/lb_default_brand_color_dark</item>
-
-        <item name="android:windowOverscan">true</item>
-        <item name="guidedStepTheme">@style/Theme.Leanback.GuidedStep</item>
-    </style>
-    <style name="Widget.Leanback.DetailsActionButtonStyleBase" parent="android:Widget.Material.Button.Borderless">
-        <item name="android:background">@drawable/lb_action_bg</item>
-    </style>
-    <style name="Widget.LeanbackBase" parent="android:Widget.Material"/>
 </resources>
