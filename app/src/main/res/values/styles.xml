@@ -1,6 +1,6 @@
 <resources>
 
-    <style name="AppBaseTheme" parent="@style/Theme.Leanback"></style>
+    <style name="AppBaseTheme" parent="@style/Theme.AppCompat.Light"></style>
 
     <style name="AppTheme" parent="AppBaseTheme">
         <!-- 设置无标题-->

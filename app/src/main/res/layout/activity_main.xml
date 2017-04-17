@@ -1,52 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:background="#000">
+
     <io.vov.vitamio.widget.VideoView
         android:id="@+id/surface_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
+
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
+
         <TextView
             android:id="@+id/tv_black"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:background="#000"
-            android:visibility="invisible"
-            />
+            android:visibility="invisible" />
+
         <RelativeLayout
             android:id="@+id/rl_display"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:visibility="invisible"
-            >
+            android:visibility="invisible">
+
             <TextView
                 android:id="@+id/tv_program_number"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_alignParentRight="true"
-                android:layout_marginTop="@dimen/h_102"
                 android:layout_marginRight="@dimen/w_180"
-                android:textSize="@dimen/w_90"
-                />
+                android:layout_marginTop="@dimen/h_102"
+                android:textColor="#fff"
+                android:textSize="@dimen/w_90" />
+
             <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="@dimen/h_204"
                 android:layout_alignParentBottom="true"
-                android:background="#AA001B37"
-                >
+                android:background="#AA001B37">
+
                 <TextView
                     android:id="@+id/tv_program_name"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginLeft="@dimen/w_108"
                     android:layout_centerVertical="true"
-                    android:textSize="@dimen/w_48"
-                    />
+                    android:layout_marginLeft="@dimen/w_108"
+                    android:textColor="#fff"
+                    android:textSize="@dimen/w_48" />
+
                 <TextView
                     android:id="@+id/tv_system_time"
                     android:layout_width="wrap_content"
@@ -54,69 +59,68 @@
                     android:layout_alignParentRight="true"
                     android:layout_centerVertical="true"
                     android:layout_marginRight="@dimen/w_180"
-                    android:textSize="@dimen/w_30"
-                    />
+                    android:textColor="#fff"
+                    android:textSize="@dimen/w_30" />
             </RelativeLayout>
         </RelativeLayout>
     </FrameLayout>
+
     <LinearLayout
         android:id="@+id/ll_program_list"
         android:layout_width="@dimen/w_588"
         android:layout_height="match_parent"
         android:orientation="vertical"
-        android:visibility="invisible"
-        >
+        android:visibility="invisible">
+
         <TextView
             android:id="@+id/tv_program"
             android:layout_width="match_parent"
             android:layout_height="@dimen/h_90"
-            android:gravity="center"
-            android:textSize="@dimen/w_37"
-            android:textColor="#fff"
-            android:text="频道列表"
             android:background="#001D39"
-            />
-        <com.xugaoxiang.ott.liveplayer.view.MyListView
+            android:gravity="center"
+            android:text="频道列表"
+            android:textColor="#fff"
+            android:textSize="@dimen/w_37" />
+
+        <com.xugaoxiang.djstava.live_vtm.view.MyListView
             android:id="@+id/lv_program"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:background="#88001B37"
-            android:scrollbars="none"
             android:listSelector="@drawable/move_frame"
-            >
-        </com.xugaoxiang.ott.liveplayer.view.MyListView>
+            android:scrollbars="none">
+        </com.xugaoxiang.djstava.live_vtm.view.MyListView>
     </LinearLayout>
-    <com.xugaoxiang.ott.liveplayer.view.RotaProgressBar
+
+    <com.xugaoxiang.djstava.live_vtm.view.RotaProgressBar
         android:id="@+id/pb_loading"
-        android:layout_width="@dimen/w_100"
-        android:layout_height="@dimen/w_100"
+        android:layout_width="@dimen/w_120"
+        android:layout_height="@dimen/w_120"
         android:layout_centerInParent="true"
-        android:visibility="invisible"
         android:padding="@dimen/w_2"
-        app:roundProgressColor="#004B96"
-        />
+        android:visibility="invisible"
+        app:roundProgressColor="#004B96" />
+
     <TextView
-        android:id="@+id/tv_speed"
+        android:id="@+id/tv_cache"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textColor="#fff"
-        android:text="4578kb/s"
         android:layout_centerInParent="true"
-        android:visibility="gone"
-        />
+        android:text="4578kb/s"
+        android:textColor="#fff"
+        android:visibility="gone" />
+
     <TextView
         android:id="@+id/tv_net_state"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/h_210"
         android:background="@drawable/spped_length_bg"
+        android:gravity="center"
         android:paddingLeft="10dp"
         android:paddingRight="10dp"
-        android:gravity="center"
         android:textColor="#fff"
-        android:textSize="36sp"
-        android:layout_centerHorizontal="true"
-        android:visibility="invisible"
-        android:layout_alignParentBottom="true"
-        android:layout_marginBottom="@dimen/h_210"
-        />
+        android:textSize="36sp" />
 </RelativeLayout>

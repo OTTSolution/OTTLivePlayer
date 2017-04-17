@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.xugaoxiang.ott.liveplayer">
-    <uses-feature android:name="android.software.leanback" android:required="false" />
+    package="com.xugaoxiang.djstava.live_vtm">
+
+    <uses-feature
+        android:name="android.software.leanback"
+        android:required="false" />
+
     <uses-permission android:name="android.permission.WAKE_LOCK" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
+        android:name="com.xugaoxiang.djstava.live_vtm.MyApplication"
         android:allowBackup="true"
         android:icon="@mipmap/live"
         android:label="@string/app_name"
@@ -19,17 +25,19 @@
             android:launchMode="singleTop"
             android:theme="@android:style/Theme.NoTitleBar"
             android:windowSoftInputMode="stateAlwaysHidden" />
-        <activity android:name="com.xugaoxiang.ott.liveplayer.activity.GetServiceProgramList"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen"
-            >
+
+        <activity
+            android:name="com.xugaoxiang.djstava.live_vtm.activity.GetServiceProgramList"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.xugaoxiang.ott.liveplayer.activity.MainActivity"
-            android:launchMode="singleTask"
-            ></activity>
+
+        <activity
+            android:name="com.xugaoxiang.djstava.live_vtm.activity.MainActivity"
+            android:launchMode="singleTask"></activity>
     </application>
 
 </manifest>
