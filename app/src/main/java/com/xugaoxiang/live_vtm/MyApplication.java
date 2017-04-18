@@ -1,4 +1,4 @@
-package com.xugaoxiang.djstava.live_vtm;
+package com.xugaoxiang.live_vtm;
 
 import android.app.Application;
 import android.content.Context;

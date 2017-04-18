@@ -1,4 +1,4 @@
-package com.xugaoxiang.djstava.live_vtm.utils;
+package com.xugaoxiang.live_vtm.utils;
 
 import android.content.Context;
 import android.content.pm.PackageInfo;
@@ -8,8 +8,8 @@ import android.os.Looper;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.xugaoxiang.djstava.live_vtm.activity.ServiceProgramActivity;
-import com.xugaoxiang.djstava.live_vtm.R;
+import com.xugaoxiang.live_vtm.activity.ServiceProgramActivity;
+import com.xugaoxiang.live_vtm.R;
 import com.loopj.android.http.RequestParams;
 import com.loopj.android.http.TextHttpResponseHandler;
 
@@ -33,13 +33,10 @@ import rx.Observable;
 import rx.Subscriber;
 import rx.schedulers.Schedulers;
 
-/**
- * Created by zero on 2016/11/23.
- */
 
 public class CrashHandler implements Thread.UncaughtExceptionHandler {
 
-    private static final String TAG = "CrashHandler";
+    private static final String TAG = CrashHandler.class.getName();
     private static CrashHandler instance;
 
     private Context mContext;
@@ -47,7 +44,6 @@ public class CrashHandler implements Thread.UncaughtExceptionHandler {
     private Map<String, String> deviceInfo = new HashMap<>();
     private DateFormat formatter = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
     private FileOutputStream fos;
-    private int i;
     private boolean flag;
 
     private CrashHandler() {
@@ -124,12 +120,12 @@ public class CrashHandler implements Thread.UncaughtExceptionHandler {
             .subscribe(new Subscriber<String>() {
                 @Override
                 public void onCompleted() {
-                    Log.e("CrashHandler" , "onCompleted");
+                    Log.e(TAG, "onCompleted");
                 }
 
                 @Override
                 public void onError(Throwable e) {
-                    Log.e("-------------" , e.getMessage());
+                    Log.e(TAG, e.getMessage());
                 }
 
                 @Override
@@ -204,7 +200,7 @@ public class CrashHandler implements Thread.UncaughtExceptionHandler {
         }
         printWriter.close();
         String result = writer.toString();
-        Log.e("CrashHandler" , "error"+result);
+        Log.e(TAG,"error"+result);
         sb.append(result);
         try {
             String time = formatter.format(new Date());

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.xugaoxiang.djstava.live_vtm.test">
+    package="com.xugaoxiang.live_vtm.test">
 
     <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="24" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.xugaoxiang.djstava.live_vtm"
+                     android:targetPackage="com.xugaoxiang.live_vtm"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.xugaoxiang.djstava.live_vtm"/>
+                     android:label="Tests for com.xugaoxiang.live_vtm"/>
 </manifest>

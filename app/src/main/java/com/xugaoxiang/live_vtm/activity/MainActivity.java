@@ -1,4 +1,4 @@
-package com.xugaoxiang.djstava.live_vtm.activity;
+package com.xugaoxiang.live_vtm.activity;
 
 import android.app.Activity;
 import android.content.BroadcastReceiver;
@@ -23,13 +23,13 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.xugaoxiang.djstava.live_vtm.adapter.ProgramAdapter;
-import com.xugaoxiang.djstava.live_vtm.bean.LiveBean;
-import com.xugaoxiang.djstava.live_vtm.utils.NetWorkUtils;
-import com.xugaoxiang.djstava.live_vtm.utils.PreUtils;
-import com.xugaoxiang.djstava.live_vtm.view.MyListView;
-import com.xugaoxiang.djstava.live_vtm.view.RotaProgressBar;
-import com.xugaoxiang.djstava.live_vtm.R;
+import com.xugaoxiang.live_vtm.adapter.ProgramAdapter;
+import com.xugaoxiang.live_vtm.bean.LiveBean;
+import com.xugaoxiang.live_vtm.utils.NetWorkUtils;
+import com.xugaoxiang.live_vtm.utils.PreUtils;
+import com.xugaoxiang.live_vtm.view.MyListView;
+import com.xugaoxiang.live_vtm.view.RotaProgressBar;
+import com.xugaoxiang.live_vtm.R;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -182,6 +182,7 @@ public class MainActivity extends Activity {
 
                 mediaPlayer.setBufferSize(512 * 1024);
                 mediaPlayer.setPlaybackSpeed(1.0f);
+                mediaPlayer.setAdaptiveStream(true);
             }
         });
 

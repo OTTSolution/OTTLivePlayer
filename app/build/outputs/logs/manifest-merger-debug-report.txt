@@ -2,7 +2,7 @@
 manifest
 ADDED from D:\workshop\github\OTTSolution\OTTLivePlayer\app\src\main\AndroidManifest.xml:2:1-43:12
 	package
-		ADDED from D:\workshop\github\OTTSolution\OTTLivePlayer\app\src\main\AndroidManifest.xml:3:5-46
+		ADDED from D:\workshop\github\OTTSolution\OTTLivePlayer\app\src\main\AndroidManifest.xml:3:5-38
 		INJECTED from D:\workshop\github\OTTSolution\OTTLivePlayer\app\src\main\AndroidManifest.xml
 		INJECTED from D:\workshop\github\OTTSolution\OTTLivePlayer\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -65,7 +65,7 @@ MERGED from [OTTLivePlayer:vitamio:unspecified] D:\workshop\github\OTTSolution\O
 	android:theme
 		ADDED from D:\workshop\github\OTTSolution\OTTLivePlayer\app\src\main\AndroidManifest.xml:21:9-40
 	android:name
-		ADDED from D:\workshop\github\OTTSolution\OTTLivePlayer\app\src\main\AndroidManifest.xml:16:9-69
+		ADDED from D:\workshop\github\OTTSolution\OTTLivePlayer\app\src\main\AndroidManifest.xml:16:9-61
 activity#io.vov.vitamio.activity.InitActivity
 ADDED from D:\workshop\github\OTTSolution\OTTLivePlayer\app\src\main\AndroidManifest.xml:22:9-27:63
 MERGED from [OTTLivePlayer:vitamio:unspecified] D:\workshop\github\OTTSolution\OTTLivePlayer\app\build\intermediates\exploded-aar\OTTLivePlayer\vitamio\unspecified\AndroidManifest.xml:16:9-21:63
@@ -79,12 +79,12 @@ MERGED from [OTTLivePlayer:vitamio:unspecified] D:\workshop\github\OTTSolution\O
 		ADDED from D:\workshop\github\OTTSolution\OTTLivePlayer\app\src\main\AndroidManifest.xml:26:13-60
 	android:name
 		ADDED from D:\workshop\github\OTTSolution\OTTLivePlayer\app\src\main\AndroidManifest.xml:23:13-64
-activity#com.xugaoxiang.djstava.live_vtm.activity.ServiceProgramActivity
+activity#com.xugaoxiang.live_vtm.activity.ServiceProgramActivity
 ADDED from D:\workshop\github\OTTSolution\OTTLivePlayer\app\src\main\AndroidManifest.xml:29:9-36:20
 	android:theme
 		ADDED from D:\workshop\github\OTTSolution\OTTLivePlayer\app\src\main\AndroidManifest.xml:31:13-83
 	android:name
-		ADDED from D:\workshop\github\OTTSolution\OTTLivePlayer\app\src\main\AndroidManifest.xml:30:13-91
+		ADDED from D:\workshop\github\OTTSolution\OTTLivePlayer\app\src\main\AndroidManifest.xml:30:13-83
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from D:\workshop\github\OTTSolution\OTTLivePlayer\app\src\main\AndroidManifest.xml:32:13-35:29
 action#android.intent.action.MAIN
@@ -95,12 +95,12 @@ category#android.intent.category.LAUNCHER
 ADDED from D:\workshop\github\OTTSolution\OTTLivePlayer\app\src\main\AndroidManifest.xml:34:17-77
 	android:name
 		ADDED from D:\workshop\github\OTTSolution\OTTLivePlayer\app\src\main\AndroidManifest.xml:34:27-74
-activity#com.xugaoxiang.djstava.live_vtm.activity.MainActivity
+activity#com.xugaoxiang.live_vtm.activity.MainActivity
 ADDED from D:\workshop\github\OTTSolution\OTTLivePlayer\app\src\main\AndroidManifest.xml:38:9-40:56
 	android:launchMode
 		ADDED from D:\workshop\github\OTTSolution\OTTLivePlayer\app\src\main\AndroidManifest.xml:40:13-44
 	android:name
-		ADDED from D:\workshop\github\OTTSolution\OTTLivePlayer\app\src\main\AndroidManifest.xml:39:13-81
+		ADDED from D:\workshop\github\OTTSolution\OTTLivePlayer\app\src\main\AndroidManifest.xml:39:13-73
 uses-sdk
 INJECTED from D:\workshop\github\OTTSolution\OTTLivePlayer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:24.2.0] D:\workshop\github\OTTSolution\OTTLivePlayer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\AndroidManifest.xml:21:5-23:78

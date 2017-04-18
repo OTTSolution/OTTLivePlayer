@@ -5584,8 +5584,7 @@ int layout select_dialog_item_material 0x7f040026
 int layout select_dialog_multichoice_material 0x7f040027
 int layout select_dialog_singlechoice_material 0x7f040028
 int layout support_simple_spinner_dropdown_item 0x7f040029
-int mipmap ic_launcher 0x7f030000
-int mipmap live 0x7f030001
+int mipmap live 0x7f030000
 int raw libarm 0x7f060000
 int string VideoView_error_button 0x7f080015
 int string VideoView_error_text_invalid_progressive_playback 0x7f080016

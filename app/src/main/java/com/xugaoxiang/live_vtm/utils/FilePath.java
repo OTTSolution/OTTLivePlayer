@@ -1,15 +1,12 @@
-package com.xugaoxiang.djstava.live_vtm.utils;
+package com.xugaoxiang.live_vtm.utils;
 
 import android.os.Environment;
 
-import com.xugaoxiang.djstava.live_vtm.MyApplication;
-import com.xugaoxiang.djstava.live_vtm.R;
+import com.xugaoxiang.live_vtm.MyApplication;
+import com.xugaoxiang.live_vtm.R;
 
 import java.io.File;
 
-/**
- * Created by zero on 2016/11/24.
- */
 
 public class FilePath {
 

@@ -1,4 +1,4 @@
-package com.xugaoxiang.djstava.live_vtm.activity;
+package com.xugaoxiang.live_vtm.activity;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -10,14 +10,14 @@ import android.text.TextUtils;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.xugaoxiang.djstava.live_vtm.bean.LiveBean;
-import com.xugaoxiang.djstava.live_vtm.utils.FilePath;
-import com.xugaoxiang.djstava.live_vtm.utils.MacAddress;
-import com.xugaoxiang.djstava.live_vtm.utils.NetWorkUtils;
-import com.xugaoxiang.djstava.live_vtm.utils.StreamUtils;
-import com.xugaoxiang.djstava.live_vtm.utils.TwitterRestClient;
+import com.xugaoxiang.live_vtm.bean.LiveBean;
+import com.xugaoxiang.live_vtm.utils.FilePath;
+import com.xugaoxiang.live_vtm.utils.MacAddress;
+import com.xugaoxiang.live_vtm.utils.NetWorkUtils;
+import com.xugaoxiang.live_vtm.utils.StreamUtils;
+import com.xugaoxiang.live_vtm.utils.TwitterRestClient;
 import com.google.gson.Gson;
-import com.xugaoxiang.djstava.live_vtm.R;
+import com.xugaoxiang.live_vtm.R;
 import com.loopj.android.http.RequestParams;
 import com.loopj.android.http.TextHttpResponseHandler;
 

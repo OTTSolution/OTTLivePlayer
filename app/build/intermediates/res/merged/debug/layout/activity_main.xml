@@ -82,17 +82,17 @@
             android:textColor="#fff"
             android:textSize="@dimen/w_37" />
 
-        <com.xugaoxiang.djstava.live_vtm.view.MyListView
+        <com.xugaoxiang.live_vtm.view.MyListView
             android:id="@+id/lv_program"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:background="#88001B37"
             android:listSelector="@drawable/move_frame"
             android:scrollbars="none">
-        </com.xugaoxiang.djstava.live_vtm.view.MyListView>
+        </com.xugaoxiang.live_vtm.view.MyListView>
     </LinearLayout>
 
-    <com.xugaoxiang.djstava.live_vtm.view.RotaProgressBar
+    <com.xugaoxiang.live_vtm.view.RotaProgressBar
         android:id="@+id/pb_loading"
         android:layout_width="@dimen/w_120"
         android:layout_height="@dimen/w_120"

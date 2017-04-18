@@ -1,16 +1,13 @@
-package com.xugaoxiang.djstava.live_vtm.bean;
+package com.xugaoxiang.live_vtm.bean;
 
 import java.util.List;
 
-/**
- * Created by user on 2016/9/30.
- */
 public class LiveBean {
 
     /**
      * type : null
      * num : 1
-     * name : 龙晶电影1台
+     * name : 电影1台
      * url : http://202.158.177.67:8081/live/livestream1/index.m3u8
      * en_name : en_name
      */

@@ -1,4 +1,4 @@
-package com.xugaoxiang.djstava.live_vtm.utils;
+package com.xugaoxiang.live_vtm.utils;
 
 import com.loopj.android.http.AsyncHttpClient;
 import com.loopj.android.http.BinaryHttpResponseHandler;

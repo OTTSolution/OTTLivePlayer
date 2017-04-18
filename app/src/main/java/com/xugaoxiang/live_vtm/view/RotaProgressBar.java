@@ -1,4 +1,4 @@
-package com.xugaoxiang.djstava.live_vtm.view;
+package com.xugaoxiang.live_vtm.view;
 
 import android.animation.PropertyValuesHolder;
 import android.animation.TimeInterpolator;
@@ -12,7 +12,7 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.view.animation.DecelerateInterpolator;
 
-import com.xugaoxiang.djstava.live_vtm.R;
+import com.xugaoxiang.live_vtm.R;
 
 
 /**

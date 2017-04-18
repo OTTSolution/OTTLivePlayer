@@ -1,4 +1,4 @@
-package com.xugaoxiang.djstava.live_vtm.view;
+package com.xugaoxiang.live_vtm.view;
 
 import android.content.Context;
 import android.util.AttributeSet;

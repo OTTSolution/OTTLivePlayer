@@ -1,4 +1,4 @@
-package com.xugaoxiang.djstava.live_vtm.adapter;
+package com.xugaoxiang.live_vtm.adapter;
 
 import android.content.Context;
 import android.text.TextUtils;
@@ -7,15 +7,12 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
-import com.xugaoxiang.djstava.live_vtm.activity.ServiceProgramActivity;
-import com.xugaoxiang.djstava.live_vtm.activity.MainActivity;
-import com.xugaoxiang.djstava.live_vtm.bean.LiveBean;
-import com.xugaoxiang.djstava.live_vtm.R;
+import com.xugaoxiang.live_vtm.bean.LiveBean;
+import com.xugaoxiang.live_vtm.activity.ServiceProgramActivity;
+import com.xugaoxiang.live_vtm.activity.MainActivity;
+import com.xugaoxiang.live_vtm.R;
 
 
-/**
- * Created by user on 2016/10/10.
- */
 public class ProgramAdapter extends BaseAdapter{
     private Context context;
 

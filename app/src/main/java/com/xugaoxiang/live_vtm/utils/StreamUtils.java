@@ -1,4 +1,4 @@
-package com.xugaoxiang.djstava.live_vtm.utils;
+package com.xugaoxiang.live_vtm.utils;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
