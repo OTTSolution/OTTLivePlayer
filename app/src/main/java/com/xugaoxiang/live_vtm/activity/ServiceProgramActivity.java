@@ -37,9 +37,6 @@ import rx.Subscriber;
 import rx.android.schedulers.AndroidSchedulers;
 import rx.schedulers.Schedulers;
 
-/**
- * Created by user on 2016/10/10.
- */
 public class ServiceProgramActivity extends Activity {
     private static final String TAG = ServiceProgramActivity.class.getName();
     public static String BASE_URI = "http://10.10.10.200:8080";
@@ -156,7 +153,7 @@ public class ServiceProgramActivity extends Activity {
     private void setLiveData() {
         if (liveBean != null) {
             MainActivity.openLive(this, liveBean);
-//            finish();
+            finish();
         }
     }
 

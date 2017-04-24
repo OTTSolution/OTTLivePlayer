@@ -10,7 +10,6 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
-import android.os.SystemClock;
 import android.text.TextUtils;
 import android.util.Log;
 import android.view.KeyEvent;
@@ -70,7 +69,7 @@ public class MainActivity extends Activity {
     private TranslateAnimation animIn;
     private int programIndex;
 
-    private final static String PROGRAM_KEY = "programIndex";
+    private final static String PROGRAM_KEY = "lastProIndex";
 
 
     private final static int CODE_GONE_PROGRAMINFO = 1;
@@ -95,11 +94,9 @@ public class MainActivity extends Activity {
     };
 
     private TranslateAnimation exitAnim;
-    private long lastTimeStamp;
     private NetworkReceiver receiver;
     private boolean lockLongPressKey;
     private long keyFlag = 1;
-    private long currentTime;
 
     private int currentListItemID = 0;
 
@@ -111,10 +108,9 @@ public class MainActivity extends Activity {
 
         setContentView(R.layout.activity_main);
         ButterKnife.bind(this);
-        lastTimeStamp = System.currentTimeMillis();
         setAdapter();
         programIndex = PreUtils.getInt(this, PROGRAM_KEY, 0);
-        if (programIndex >= liveBean.getData().size()) {
+        if ((programIndex >= liveBean.getData().size()) || (programIndex < 0)) {
             programIndex = 0;
         }
 
@@ -130,7 +126,7 @@ public class MainActivity extends Activity {
         mVideoView.setOnBufferingUpdateListener(new MediaPlayer.OnBufferingUpdateListener() {
             @Override
             public void onBufferingUpdate(MediaPlayer mp, int percent) {
-                if (percent == 100) {
+                if (percent >= 100) {
                     hideLoading();
                     mp.start();
                 } else {
@@ -160,11 +156,11 @@ public class MainActivity extends Activity {
                         mp.start();
                         break;
 
-                    case MediaPlayer.MEDIA_INFO_VIDEO_TRACK_LAGGING:
-                        break;
-
-                    case MediaPlayer.MEDIA_INFO_DOWNLOAD_RATE_CHANGED:
-                        break;
+//                    case MediaPlayer.MEDIA_INFO_VIDEO_TRACK_LAGGING:
+//                        break;
+//
+//                    case MediaPlayer.MEDIA_INFO_DOWNLOAD_RATE_CHANGED:
+//                        break;
                 }
 
                 return false;
@@ -176,12 +172,11 @@ public class MainActivity extends Activity {
             public void onPrepared(MediaPlayer mediaPlayer) {
                 handler.sendEmptyMessageDelayed(CODE_HIDE_BLACK, 500);
                 handler.sendEmptyMessageDelayed(CODE_GONE_PROGRAMINFO, 5000);
-                long lastTime = SystemClock.currentThreadTimeMillis();
-
-                Log.e(TAG, "lastTime:" + lastTime + ",gapTime:" + (lastTime - currentTime));
 
                 mediaPlayer.setBufferSize(512 * 1024);
                 mediaPlayer.setPlaybackSpeed(1.0f);
+                mediaPlayer.setVideoQuality(MediaPlayer.VIDEOQUALITY_HIGH);
+                mediaPlayer.setDeinterlace(true);
                 mediaPlayer.setAdaptiveStream(true);
             }
         });
@@ -191,7 +186,6 @@ public class MainActivity extends Activity {
             public boolean onError(MediaPlayer mp, int what, int extra) {
                 Log.e(TAG, "播放出错！" + "what:" + what + ",extra:" + extra);
                 Toast.makeText(MainActivity.this, "播放出错！what:" + what + ",extra:" + extra, Toast.LENGTH_LONG).show();
-                finish();
                 return false;
             }
         });
@@ -200,7 +194,6 @@ public class MainActivity extends Activity {
             @Override
             public void onCompletion(MediaPlayer mp) {
                 Toast.makeText(MainActivity.this, "播放完毕！", Toast.LENGTH_SHORT).show();
-                finish();
             }
         });
 
@@ -210,12 +203,10 @@ public class MainActivity extends Activity {
         Log.e(TAG, liveBean.getData().get(programIndex).getUrl());
 
         mVideoView.setVideoLayout(VideoView.VIDEO_LAYOUT_STRETCH, VideoView.VIDEO_LAYOUT_FIT_PARENT);
-        mVideoView.setVideoURI(Uri.parse(liveBean.getData().get(programIndex).getUrl()));
         mVideoView.setHardwareDecoder(true);
         mVideoView.requestFocus();
-
-        currentTime = SystemClock.currentThreadTimeMillis();
-        Log.e(TAG, "currentTime:" + currentTime);
+        mVideoView.setVideoChroma(MediaPlayer.VIDEOCHROMA_RGB565);
+        mVideoView.setVideoURI(Uri.parse(liveBean.getData().get(programIndex).getUrl()));
     }
 
     public static void openLive(Context context, LiveBean liveBean) {
@@ -229,12 +220,15 @@ public class MainActivity extends Activity {
         switch (keyCode) {
             case KeyEvent.KEYCODE_ENTER:
             case KeyEvent.KEYCODE_DPAD_CENTER:
+                if (event.getRepeatCount() != 0) {
+                    break;
+                }
                 togglePlaylist();
                 break;
 
             case KeyEvent.KEYCODE_DPAD_UP:
                 if (currentListItemID == 0) {
-                    lvProgram.setSelection(MainActivity.liveBean.getData().size() - 1);
+                    lvProgram.setSelection(liveBean.getData().size() - 1);
                 }
 
                 if (llProgramList.getVisibility() == View.VISIBLE) {
@@ -249,7 +243,7 @@ public class MainActivity extends Activity {
                 break;
 
             case KeyEvent.KEYCODE_DPAD_DOWN:
-                if (currentListItemID == MainActivity.liveBean.getData().size() - 1) {
+                if (currentListItemID == liveBean.getData().size() - 1) {
                     lvProgram.setSelection(0);
                 }
 
@@ -303,6 +297,8 @@ public class MainActivity extends Activity {
     }
 
     private void play() {
+        hideLoading();
+
         if (mVideoView.isPlaying()) {
             mVideoView.pause();
         }
@@ -311,7 +307,7 @@ public class MainActivity extends Activity {
     }
 
     private void setAdapter() {
-        if (MainActivity.liveBean != null) {
+        if (liveBean != null) {
             final ProgramAdapter programAdapter = new ProgramAdapter(this);
             lvProgram.setAdapter(programAdapter);
         } else {
@@ -342,10 +338,17 @@ public class MainActivity extends Activity {
     }
 
     public void togglePlaylist() {
+        if (llProgramList.getVisibility() == View.VISIBLE) {
+            if (currentListItemID == programIndex) {
+                return;
+            }
+        }
+
         if (animIn == null) {
             animIn = new TranslateAnimation(-llProgramList.getWidth(), 0f, 0f, 0f);
             animIn.setDuration(300);
         }
+
         animIn.setAnimationListener(new Animation.AnimationListener() {
             @Override
             public void onAnimationStart(Animation animation) {
@@ -362,6 +365,7 @@ public class MainActivity extends Activity {
 
             }
         });
+
         llProgramList.startAnimation(animIn);
         lvProgram.setSelection(programIndex);
     }
@@ -488,11 +492,6 @@ public class MainActivity extends Activity {
     @Override
     protected void onPause() {
         super.onPause();
-        mVideoView.pause();
-
-        if (receiver != null) {
-            unregisterReceiver(receiver);
-        }
     }
 
     @Override
@@ -500,6 +499,7 @@ public class MainActivity extends Activity {
         super.onDestroy();
 
         PreUtils.setInt(this, PROGRAM_KEY, programIndex);
+
         if (receiver != null) {
             unregisterReceiver(receiver);
         }
@@ -507,8 +507,9 @@ public class MainActivity extends Activity {
         if (mVideoView != null) {
             mVideoView.stopPlayback();
             mVideoView = null;
-            finish();
         }
+
+        finish();
     }
 
     class NetworkReceiver extends BroadcastReceiver {
