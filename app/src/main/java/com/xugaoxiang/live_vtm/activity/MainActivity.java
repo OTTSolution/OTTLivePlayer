@@ -63,18 +63,17 @@ public class MainActivity extends Activity {
     TextView tvCache;
     @Bind(R.id.tv_net_state)
     TextView tvNetState;
-    public static LiveBean liveBean;
     @Bind(R.id.tv_program)
     TextView tvProgram;
+
+    public static LiveBean liveBean;
     private TranslateAnimation animIn;
     private int programIndex;
 
     private final static String PROGRAM_KEY = "lastProIndex";
 
-
     private final static int CODE_GONE_PROGRAMINFO = 1;
     private final static int CODE_HIDE_BLACK = 2;
-
 
     private static final String TAG = MainActivity.class.getName();
 
@@ -128,7 +127,6 @@ public class MainActivity extends Activity {
             public void onBufferingUpdate(MediaPlayer mp, int percent) {
                 if (percent >= 100) {
                     hideLoading();
-                    mp.start();
                 } else {
                     showLoading();
                     tvCache.setText("缓冲: " + percent + "%");
@@ -145,22 +143,18 @@ public class MainActivity extends Activity {
 
                 switch (what) {
                     case MediaPlayer.MEDIA_INFO_BUFFERING_START:
-                        if (mVideoView.isPlaying()) {
-                            mVideoView.pause();
+                        if (mp.isPlaying()) {
+                            mp.pause();
                         }
                         showLoading();
                         break;
 
                     case MediaPlayer.MEDIA_INFO_BUFFERING_END:
                         hideLoading();
+                        handler.sendEmptyMessageDelayed(CODE_HIDE_BLACK, 500);
+                        handler.sendEmptyMessageDelayed(CODE_GONE_PROGRAMINFO, 5000);
                         mp.start();
                         break;
-
-//                    case MediaPlayer.MEDIA_INFO_VIDEO_TRACK_LAGGING:
-//                        break;
-//
-//                    case MediaPlayer.MEDIA_INFO_DOWNLOAD_RATE_CHANGED:
-//                        break;
                 }
 
                 return false;
@@ -170,9 +164,6 @@ public class MainActivity extends Activity {
         mVideoView.setOnPreparedListener(new MediaPlayer.OnPreparedListener() {
             @Override
             public void onPrepared(MediaPlayer mediaPlayer) {
-                handler.sendEmptyMessageDelayed(CODE_HIDE_BLACK, 500);
-                handler.sendEmptyMessageDelayed(CODE_GONE_PROGRAMINFO, 5000);
-
                 mediaPlayer.setBufferSize(512 * 1024);
                 mediaPlayer.setPlaybackSpeed(1.0f);
                 mediaPlayer.setVideoQuality(MediaPlayer.VIDEOQUALITY_HIGH);
@@ -200,13 +191,13 @@ public class MainActivity extends Activity {
     }
 
     private void initPlayer() {
-        Log.e(TAG, liveBean.getData().get(programIndex).getUrl());
+        Log.i(TAG,liveBean.getData().get(programIndex).getUrl());
 
         mVideoView.setVideoLayout(VideoView.VIDEO_LAYOUT_STRETCH, VideoView.VIDEO_LAYOUT_FIT_PARENT);
         mVideoView.setHardwareDecoder(true);
-        mVideoView.requestFocus();
         mVideoView.setVideoChroma(MediaPlayer.VIDEOCHROMA_RGB565);
         mVideoView.setVideoURI(Uri.parse(liveBean.getData().get(programIndex).getUrl()));
+        mVideoView.requestFocus();
     }
 
     public static void openLive(Context context, LiveBean liveBean) {
@@ -300,7 +291,7 @@ public class MainActivity extends Activity {
         hideLoading();
 
         if (mVideoView.isPlaying()) {
-            mVideoView.pause();
+            mVideoView.stopPlayback();
         }
 
         mVideoView.setVideoURI(Uri.parse(liveBean.getData().get(programIndex).getUrl()));
@@ -371,6 +362,10 @@ public class MainActivity extends Activity {
     }
 
     private void previous() {
+        if (mVideoView.isPlaying()) {
+            mVideoView.stopPlayback();
+        }
+
         tvBlack.setVisibility(View.VISIBLE);
         programIndex--;
         if (programIndex < 0) {
@@ -380,6 +375,10 @@ public class MainActivity extends Activity {
     }
 
     private void next() {
+        if (mVideoView.isPlaying()) {
+            mVideoView.stopPlayback();
+        }
+
         tvBlack.setVisibility(View.VISIBLE);
         programIndex++;
         if (programIndex >= liveBean.getData().size()) {
