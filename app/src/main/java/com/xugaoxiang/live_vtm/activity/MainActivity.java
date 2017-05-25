@@ -10,6 +10,7 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
+import android.os.SystemClock;
 import android.text.TextUtils;
 import android.util.Log;
 import android.view.KeyEvent;
@@ -184,7 +185,24 @@ public class MainActivity extends Activity {
         mVideoView.setOnCompletionListener(new MediaPlayer.OnCompletionListener() {
             @Override
             public void onCompletion(MediaPlayer mp) {
-                Toast.makeText(MainActivity.this, "播放完毕！", Toast.LENGTH_SHORT).show();
+                Log.i(TAG, "onCompletion: ...");
+
+                // restart mp when freeze for hls
+                if (liveBean.getData().get(programIndex).getUrl().startsWith("http")) {
+                    if (mp.isPlaying()) {
+                        mp.pause();
+                        showLoading();
+                    } else {
+                        showLoading();
+                        SystemClock.sleep(3000);
+                    }
+
+                    if (mVideoView.isPlaying()) {
+                        mVideoView.pause();
+                    }
+
+                    mVideoView.setVideoURI(Uri.parse(liveBean.getData().get(programIndex).getUrl()));
+                }
             }
         });
 
